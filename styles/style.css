@@ -1,0 +1,212 @@
+*{
+    box-sizing: border-box;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: rgb(0, 0, 0);
+}
+
+h1#gwsgFont {
+
+    font-family: 'Comforter', cursive;
+    color: gainsboro;
+    font-weight: lighter;
+    font-size: 80px;
+    
+}
+
+.fColor{
+    color: black;
+    margin-bottom: 30px;
+    font-weight: bolder;
+    border: 2px solid gainsboro;    
+    width: 100%;
+    display: inline-block;
+    padding-bottom: 30px;
+    position: relative;
+}
+.fColor h2{
+    color: gainsboro;
+    font-family: 'Montserrat', sans-serif;
+
+} 
+#color1 {
+    font-family: 'Montserrat', sans-serif;
+    background-color: lightcyan;
+    border: 1px solid lightcyan;
+    width: 300px;
+    display: inline-block;
+    margin: 5px;
+    text-align: center;
+    z-index: 1px;
+}
+
+#color1 p{
+    background-color: lightcyan;
+}
+#color2{
+    font-family: 'Montserrat', sans-serif;
+    background-color: teal;
+    border: 1px solid teal;
+    display: inline-block;
+    width: 300px;
+    margin: 5px;
+    text-align: center;
+    z-index: 1px;
+       
+}
+#color2 p{
+    background-color: Teal;
+}
+#color3{
+    font-family: 'Montserrat', sans-serif;
+    background-color: DarkSlateGray;
+    border: 1px solid DarkSlateGray;
+    display: inline-block;
+    width: 300px;
+    margin: 5px;
+    text-align: center;
+    z-index: 1px;
+}
+
+#color3 p{
+    background-color: darkslategray;
+}
+#color4{
+    font-family: 'Montserrat', sans-serif;
+    background-color: red;
+    border: 1px solid red;
+    display: inline-block;
+    width: 300px;
+    margin: 5px;   
+    text-align: center;
+    z-index: 1px;
+
+}
+#color4 p{
+    background-color: red;
+}
+
+#color5{
+    font-family: 'Montserrat', sans-serif;
+    background-color: darkolivegreen;
+    border: 1px solid darkolivegreen;
+    display: inline-block;
+    width: 300px;
+    margin: 5px;
+    text-align: center;
+   
+}
+#color5 p{
+    background-color: darkolivegreen;
+}
+
+.fFamily{
+    color: gainsboro;
+    border: 2px solid gainsboro; 
+    margin-bottom: 30px;   
+    width: 100%;
+    font-family:  Calibri, 'Trebuchet MS', sans-serif;
+    display: block;
+    
+}
+.fFamily h2{
+    color: gainsboro;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#font1{
+    font-family: 'Montserrat', sans-serif;
+    display: inline-block;
+    margin-left: 0;
+    margin-bottom: 20px;
+    padding: 0;
+    width: 500px;
+    text-align: left;
+}
+
+#font2{
+    font-family: 'Quicksand', sans-serif;
+    display: inline-block;
+    width: 500px;
+    margin-left: 5px;
+    padding: 0px;
+}
+
+#font3{
+    
+    font-family: monospace;
+    display: inline-block;
+    width: 500px;
+    margin-left: 5px;
+    margin-bottom: 20px;
+    bottom: 20px;
+    padding: 0px;
+}
+
+#font4{
+    
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    display: inline-block;
+    font-weight: lighter;
+    width: 500px;
+    margin-left: 5px;
+    margin-bottom: 20px;
+    padding: 0px;
+    bottom: 10px;
+}
+.nml{
+    font-style: lighter;
+}
+.itc{
+    font-style: italic;
+    font-weight: lighter;
+}
+.bld{
+    font-weight: bold;
+}
+.tStyles{
+    color: gainsboro;
+    border: 2px solid gainsboro;    
+    width: 100%;
+    font-family:  Calibri, 'Trebuchet MS', sans-serif;
+    overflow: auto;
+    display: block;
+}
+#tS{
+    color: gainsboro;
+    font-family: 'Montserrat', sans-serif;
+}
+.tStyles div{
+    
+    margin: 15px;
+}
+.tStyles h1 {
+    padding-left: 0%;
+    font-size: 40px;
+    font-weight: bold;
+    color: blue;
+    font-family: 'Quicksand', sans-serif;
+
+}
+
+.tStyles h2{
+    padding-left: 0%;
+    font-size: 25px;
+    font-weight: lighter;
+    color: cyan;
+    font-family: monospace;
+}
+
+.tStyles p{
+    padding-left: 0%;
+    font-size: 12px;
+    font-weight: lighter;
+    color: lightsalmon;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.tStyles li{
+  
+    padding-left: 0%;
+    font-family: 'Quicksand', sans-serif;
+}
